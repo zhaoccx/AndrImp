@@ -4,7 +4,6 @@ import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
 
-import android.annotation.SuppressLint;
 import android.app.ListActivity;
 import android.content.Intent;
 import android.net.Uri;
@@ -13,7 +12,6 @@ import android.view.View;
 import android.widget.ListView;
 import android.widget.TextView;
 
-@SuppressLint("DefaultLocale")
 public class Main extends ListActivity {
 
 	/*
